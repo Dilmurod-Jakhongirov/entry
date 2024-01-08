@@ -11,3 +11,7 @@ function diff(a,b){
     return a - b 
 }
 
+function dsiff(a,b){
+    return a - b 
+}
+
